@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "timemoney",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -37,6 +37,8 @@
       "eas": {
         "projectId": "5bd6cc54-53de-46a7-a459-7997297f625a"
       }
-    }
+    },
+    "jsEngine": "hermes",
+    "sdkVersion": "51.0.0"
   }
 }
